@@ -1,0 +1,14 @@
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/WebRoot/main.css
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/web.config
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/GirApp.Tests.deps.json
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/GirApp.Tests.runtimeconfig.json
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/GirApp.Tests.runtimeconfig.dev.json
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/GirApp.Tests.dll
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/GirApp.Tests.pdb
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/GirApp.dll
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/bin/Debug/netcoreapp2.0/GirApp.pdb
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/obj/Debug/netcoreapp2.0/GirApp.Tests.dll
+/Users/joshuabowles/x/fsharp_work/GirApp/tests/GirApp.Tests/obj/Debug/netcoreapp2.0/GirApp.Tests.pdb

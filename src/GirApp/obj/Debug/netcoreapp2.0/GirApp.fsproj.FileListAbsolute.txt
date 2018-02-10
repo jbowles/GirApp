@@ -1,0 +1,9 @@
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/bin/Debug/netcoreapp2.0/WebRoot/main.css
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/bin/Debug/netcoreapp2.0/web.config
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/bin/Debug/netcoreapp2.0/GirApp.deps.json
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/bin/Debug/netcoreapp2.0/GirApp.runtimeconfig.json
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/bin/Debug/netcoreapp2.0/GirApp.runtimeconfig.dev.json
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/bin/Debug/netcoreapp2.0/GirApp.dll
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/bin/Debug/netcoreapp2.0/GirApp.pdb
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/obj/Debug/netcoreapp2.0/GirApp.dll
+/Users/joshuabowles/x/fsharp_work/GirApp/src/GirApp/obj/Debug/netcoreapp2.0/GirApp.pdb
